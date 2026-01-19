@@ -6,4 +6,4 @@
 
 
 Приложение расмещено на GitHub Pages: 
-[![Ссылка на приложение](https://olgatabisheva.github.io/happynumbers/)](https://olgatabisheva.github.io/happynumbers/)
+[![Ссылка на приложение]](https://olgatabisheva.github.io/happynumbers/)
