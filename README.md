@@ -3,3 +3,7 @@
 Реализовано приложение, которое помогает изучать таблицу умножения.
 Стек: HTML, CSS, JavaScript, jQuery.
 Для удобства использования css используется БЭМ методология.
+
+
+Приложение расмещено на GitHub Pages: 
+[![Ссылка на приложение](https://olgatabisheva.github.io/happynumbers/)](https://olgatabisheva.github.io/happynumbers/)

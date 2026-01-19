@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-
 }
 
 input[type=number] {
@@ -12,8 +11,6 @@ input::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0;
 }
-
-
 
 body {
     margin: 0;
@@ -88,12 +85,9 @@ body {
     border-color: #FA8072;
 }
 
-
-
 .task-board__equation-input.success-active {
     border-color: #A9A9A9 !important;
 }
-
 
 .task-board__button {
     width: 120px;
