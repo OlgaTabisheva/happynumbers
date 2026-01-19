@@ -34,7 +34,7 @@ $(document).ready(function () {
 
         setTimeout(() => {
             $cubeRow.find('.task-board__cube').addClass('visible');
-        }, 100);
+        }, 500);
 
         updateButtonState();
     }
